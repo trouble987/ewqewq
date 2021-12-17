@@ -1,0 +1,33 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "653654249577906207",
+    "prefix" : "m!",
+    "footer" : "Moonlight",
+
+    "tag" : "Ψ",
+    "etikettag" : "",
+    "sembol" : "|",
+  
+    "yetkiliRol" : [""],
+    "vipRol" : "VIP ROL ID",
+    "boosterRol" : "BOOSTER ROL ID",
+    "kayıtsızRol" : "920743970882076684",
+    "erkekRol1" : "920743970882076685",
+    "erkekRol2" : "920743970882076685",
+    "kadınRol1" : "920743970882076688",
+    "kadınRol2" : "YOKSA BOŞ BIRAK",
+
+    "tagRol" : "TAG ROL ID",
+    "tagLog" : "TAG LOG ID",
+
+    "SunucuID" : "920743970458468383",
+    "hosgeldinKanal" : "920743971100188696",
+    "sohbetKanal" : "920743971565760577", 
+    "botSesKanal" : "920743971100188700",
+  
+    "yes" : "ONAY EMOJİSİ",
+    "no" : "RED EMOJİSİ"
+}
